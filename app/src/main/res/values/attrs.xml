@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="OptionsInLine">
+        <attr name="OptionsInLine_optionNum" format="integer" />
+        <attr name="OptionsInLine_defaultOptionIndex" format="integer" />
+        <attr name="OptionsInLine_textColor" format="color" />
+    </declare-styleable>
+
+</resources>
